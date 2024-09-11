@@ -1,15 +1,12 @@
 baseURL = 'http://localhost'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '영국 개발자 그룹 UDG'
 theme = "hugo-geekdoc"
 
-# Required to get well formatted code blocks
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
 enableGitInfo = true
-
-# Required if you want to render robots.txt template
 enableRobotsTXT = false
 
 [markup]
@@ -23,3 +20,7 @@ enableRobotsTXT = false
 
 [taxonomies]
   tag = "tags"
+
+# for more information (visit)[https://geekdocs.de/usage/configuration/]
+[params]
+    geekdocDarkModeCode = true

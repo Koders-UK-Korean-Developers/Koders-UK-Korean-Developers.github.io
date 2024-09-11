@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Page 1 on My New Hugo Site</title>
-    <link>http://localhost/posts/</link>
-    <description>Recent content in Test Page 1 on My New Hugo Site</description>
+    <title>Test Page 1 on 영국 개발자 그룹 UDG</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Test Page 1 on 영국 개발자 그룹 UDG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Sep 2024 00:19:09 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost/posts/test/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/posts/test/</guid>
-      <description>hello?</description>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>hello?&#xA;Get Home Contribute </description>
     </item>
   </channel>
 </rss>
