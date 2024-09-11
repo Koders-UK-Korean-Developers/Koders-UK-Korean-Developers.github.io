@@ -4,7 +4,7 @@
   class="color-toggle-hidden"
   
 >
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="UTF-8" />
 <meta name="referrer" content="no-referrer" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -13,7 +13,7 @@
 
 
 
-    <title>Posts | My New Hugo Site</title>
+    <title>Test Page 1 | My New Hugo Site</title>
 
     <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
 <link
@@ -34,17 +34,17 @@
     
   <meta
     property="og:title"
-    content="Posts"
+    content="Test Page 1"
   />
   <meta property="og:site_name" content="My New Hugo Site" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/posts/" />
+<meta property="og:url" content="http://localhost/posts/" />
 
 
 
 
   <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Posts" />
+<meta name="twitter:title" content="Test Page 1" />
 
 
 
@@ -111,7 +111,7 @@
   href="/custom.css"
   media="all"
 />
-  <link href="http://localhost:1313/posts/" rel="canonical" type="text/html" />
+  <link href="http://localhost/posts/" rel="canonical" type="text/html" />
 
 <!-- Made with Geekdoc theme https://github.com/thegeeklab/hugo-geekdoc -->
 
@@ -148,7 +148,7 @@
       </label>
     
     <div>
-      <a class="gdoc-brand gdoc-header__link" href="http://localhost:1313/">
+      <a class="gdoc-brand gdoc-header__link" href="http://localhost/">
         <span class="flex align-center">
           <img
             class="gdoc-brand__img"
@@ -180,7 +180,7 @@
         </span>
 
         <span class="gdoc-menu-header__home">
-          <a href="http://localhost:1313/" class="gdoc-header__link">
+          <a href="http://localhost/" class="gdoc-header__link">
             <svg class="gdoc-icon gdoc_home">
               <title>Back to homepage</title>
               <use xlink:href="#gdoc_home"></use>
@@ -227,7 +227,7 @@
       placeholder="Search..."
       aria-label="Search"
       maxlength="64"
-      data-site-base-url="http://localhost:1313/"
+      data-site-base-url="http://localhost/"
       data-site-lang="en"
     />
     <ul id="gdoc-search-results" class="gdoc-search__list"></ul>
@@ -274,10 +274,71 @@
               
             >
               
-                <span class="flex">Posts</span>
+                <span class="flex">
+                  <a
+                    href="/posts/"
+                    class="gdoc-nav__entry is-active"
+                  >
+                    Test Page 1
+                  </a>
+                </span>
               
               
             </label>
+
+            
+              
+  
+
+
+  <ul class="gdoc-nav__list">
+    
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/posts/test/"
+                    class="gdoc-nav__entry"
+                  >
+                    Test
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+  </ul>
 
             
           </li>
@@ -309,6 +370,45 @@
         <div class="gdoc-page">
           
   
+    <article class="gdoc-markdown gdoc-post">
+      <header class="gdoc-post__header">
+        <h1 class="gdoc-post__title">
+          <a href="/posts/test/">Test</a>
+        </h1>
+      </header>
+      <section>
+        hello?
+      </section>
+      <div class="gdoc-post__readmore">
+        
+      </div>
+
+      <footer class="gdoc-post__footer">
+        <div class="flex flex-wrap align-center gdoc-post__meta">
+          <span class="flex align-center no-wrap">
+  <svg class="gdoc-icon gdoc_date"><use xlink:href="#gdoc_date"></use></svg>
+  <span class="gdoc-post__tag">
+    <time datetime="0001-01-01T00:00:00Z">
+      
+      Jan 1, 0001
+    </time>
+  </span>
+</span>
+
+<span class="flex align-center no-wrap">
+  <svg class="gdoc-icon gdoc_timer"><use xlink:href="#gdoc_timer"></use></svg>
+  <span class="gdoc-post__tag">One minute to read</span>
+</span>
+
+
+
+
+
+
+        </div>
+      </footer>
+    </article>
+  
   
 
 
@@ -316,7 +416,7 @@
   <div class="gdoc-paging__item gdoc-paging__item--prev">
     
   </div>
-  <div class="gdoc-paging__state">1/0</div>
+  <div class="gdoc-paging__state">1/1</div>
   <div class="gdoc-paging__item gdoc-paging__item--next">
     
   </div>
@@ -370,8 +470,56 @@
         
 
         
+          
+        
 
         
+        
+          
+  
+  
+
+  
+  
+    
+
+    
+      
+    
+
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+          
+            
+            
+          
+        
+
+        
+
+        
+          
+        
+
+        
+        
+      
+    
+
+  
+
         
       
     
@@ -385,6 +533,15 @@
   
 </span>
 <span class="gdoc-page__nav">
+  
+    <a
+      class="gdoc-page__nav--next flex align-center"
+      href="/posts/test/"
+      title="Test"
+    >
+      Test
+      <i class="gdoc-icon">gdoc_arrow_right_alt</i>
+    </a>
   
 </span>
 

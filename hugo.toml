@@ -10,7 +10,7 @@ disablePathToLower = true
 enableGitInfo = true
 
 # Required if you want to render robots.txt template
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [markup]
   [markup.goldmark.renderer]
@@ -23,5 +23,3 @@ enableRobotsTXT = true
 
 [taxonomies]
   tag = "tags"
-
-

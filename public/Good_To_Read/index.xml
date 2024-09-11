@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on My New Hugo Site</title>
+    <link>http://localhost:1313/Good_To_Read/</link>
+    <description>Recent content in News on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/Good_To_Read/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/Good_To_Read/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Good_To_Read/sample/</guid>
+      <description> this is? </description>
+    </item>
+  </channel>
+</rss>
