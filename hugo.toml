@@ -24,3 +24,4 @@ enableRobotsTXT = false
 # for more information (visit)[https://geekdocs.de/usage/configuration/]
 [params]
     geekdocDarkModeCode = true
+    geekdocLogo = "Logo.svg"
