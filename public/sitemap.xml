@@ -2,19 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/CV/</loc>
+    <lastmod>2024-09-10T22:52:34+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-10T22:52:34+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-12T00:19:09+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-09-12T00:19:09+01:00</lastmod>
+    <loc>http://localhost:1313/tags/%EC%9D%B4%EB%A0%A5%EC%84%9C/</loc>
+    <lastmod>2024-09-10T22:52:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/Test/</loc>
-    <lastmod>2024-09-12T00:19:09+01:00</lastmod>
+    <loc>http://localhost:1313/tags/%EC%B7%A8%EC%97%85/</loc>
+    <lastmod>2024-09-10T22:52:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-12T00:19:09+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
-    <lastmod>2024-09-12T00:19:09+01:00</lastmod>
+    <loc>http://localhost:1313/CV/test/</loc>
   </url>
 </urlset>

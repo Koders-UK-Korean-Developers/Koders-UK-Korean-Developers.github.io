@@ -4,6 +4,9 @@
 
 이 웹사이트는 UDG 카카오톡 그룹에서 공유된 유용한 정보를 저장하고 공유하기 위한 목적으로 만들어졌습니다. 더 자세한 정보나 문의 사항이 있으시면 UDG 카카오톡 오픈채팅방에 참여해 주세요: [여기](https://open.kakao.com/o/gZ8vLKsf)에서 참여할 수 있습니다.
 
+{{< button href="https://github.com/Koders-UK-Korean-Developers/Koders-UK-Korean-Developers.github.io" >}}컨텐츠 작성 및 기여{{< /button >}}
+
+
 ## 목차
 - [웹사이트 개요](#웹사이트-개요)
 - [시작하기](#시작하기)

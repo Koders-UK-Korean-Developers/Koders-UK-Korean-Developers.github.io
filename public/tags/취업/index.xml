@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>취업 on 영국 개발자 그룹 UDG</title>
+    <link>http://localhost:1313/tags/%EC%B7%A8%EC%97%85/</link>
+    <description>Recent content in 취업 on 영국 개발자 그룹 UDG</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2024 22:52:34 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%EC%B7%A8%EC%97%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV / CoverLetter</title>
+      <link>http://localhost:1313/CV/</link>
+      <pubDate>Tue, 10 Sep 2024 22:52:34 +0100</pubDate>
+      <guid>http://localhost:1313/CV/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

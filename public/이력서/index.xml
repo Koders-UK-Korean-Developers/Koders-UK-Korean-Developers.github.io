@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>취업정보 on 영국 개발자 그룹 UDG</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/%EC%9D%B4%EB%A0%A5%EC%84%9C/</link>
     <description>Recent content in 취업정보 on 영국 개발자 그룹 UDG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Sep 2024 00:19:09 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/%EC%9D%B4%EB%A0%A5%EC%84%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>http://localhost:1313/%EC%9D%B4%EB%A0%A5%EC%84%9C/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>http://localhost:1313/%EC%9D%B4%EB%A0%A5%EC%84%9C/test/</guid>
       <description>hello?&#xA;Get Home Contribute </description>
     </item>
   </channel>

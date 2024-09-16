@@ -1,8 +1,6 @@
 ---
-title: Test Page 1
+title: CV / CoverLetter
 type: posts
 date: 2024-09-10T22:52:34+01:00
-tags: ["Test"]
+geekdocHidden: false
 ---
-
-Test Page 1
